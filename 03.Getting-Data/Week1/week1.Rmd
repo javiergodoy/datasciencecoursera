@@ -22,3 +22,5 @@ cameraData <- read.table("./data/cameras.csv", sep = ",", header = TRUE)
 head(cameraData)
 ```
 
+La función `read.csv()` cumple la misma función. 
+
